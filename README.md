@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @02cmckee
-- 👀 I’m interested in snowboarding this winter.
+- 👀 I’m interested in snowboarding this winter!
 - 🌱 I’m currently learning Swift and Python!
 - 📫 How to reach me chad.a.mckee@gmail.com
